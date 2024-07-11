@@ -1,0 +1,5 @@
+resource_group_name = "prod-web-rg"
+location = "southcentralus"
+DOCKER_REGISTRY_SERVER_URL = "todo123.azurecr.io"
+DOCKER_REGISTRY_SERVER_USERNAME = "todo123"
+DOCKER_REGISTRY_SERVER_PASSWORD = "passxyz"
